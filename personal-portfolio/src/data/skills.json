@@ -1,5 +1,17 @@
 [
   {
+    "title": "C#",
+    "imageSrc": "skills/csharp.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skills/cplusplus.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
     "title": "HTML",
     "imageSrc": "skills/html.png"
   },
@@ -12,19 +24,27 @@
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "Node",
+    "title": "Azure",
+    "imageSrc": "skills/azure.png"
+  },
+  {
+    "title": "AWS",
+    "imageSrc": "skills/aws.png"
+  },
+  {
+    "title": "Node.js",
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "Python",
+    "imageSrc": "skills/python.png"
   },
   {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
   },
   {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
   }
 ]

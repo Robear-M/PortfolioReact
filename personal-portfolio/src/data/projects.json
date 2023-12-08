@@ -1,25 +1,25 @@
 [
   {
-    "title": "Project A",
+    "title": "Resume API",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "Built a REST API to return resume information by hitting various endpoints, and with an additional front-end documentation.",
+    "skills": ["React", "Express", "MongoDB"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
+    "title": "MyBookit List",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "description": "Web application to track books that you may have been reading (or meaning to read) and share your thoughts with friends.",
+    "skills": ["C# .NET", "Angular", "SQL"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project C",
+    "title": "Image Classification CNN",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "A convolutional neural network used to do image classification. Explore other repos on my GitHub for projects utilizing RNNs",
+    "skills": ["Python"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   }

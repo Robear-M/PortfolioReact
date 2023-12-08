@@ -10,11 +10,12 @@ export const Hero = () => {
                 <h1 className={styles.title}>Hi, I'm Robert</h1>
                 <p className={styles.description}>
                     I'm a full-stack developer with 2 years of experience using
-                    various web technologies. Reach out if you'd like to learn more!
+                    various web technologies, and a graduate student studying cutting edge fields. 
+                    Reach out if you'd like to learn more!
                 </p>
                 <a href="mailto:rmalloy1@usf.edu" className={styles.contactBtn}>Contact Me</a>
             </div>
-            <img src={getImageUrl("hero/heroImage.png")} alt="Hero" className={styles.heroImg}/>
+            <img src={getImageUrl("hero/Headshot2.png")} alt="Hero" className={styles.heroImg}/>
             <div className={styles.topBlur}></div>
             <div className={styles.bottomBlur}></div>
         </section>
